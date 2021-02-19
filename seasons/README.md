@@ -12,4 +12,4 @@
 ![winter](https://user-images.githubusercontent.com/65207835/108515833-e131c500-7308-11eb-8ed1-2a9ab3f664b6.png)
 
 ### ‼️ Geolocation.getCurrentPosition()
-#### Although it had worked when being developed, apprently this feature is available only in secure contexts (HTTPS), in some or all supporting browsers. Referenced by <a href="https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition">MDN</a>.
+#### Although it had worked when being developed a year ago, apprently this feature is available only in secure contexts (HTTPS) now, in some or all supporting browsers. Referenced by <a href="https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/getCurrentPosition">MDN</a>.
